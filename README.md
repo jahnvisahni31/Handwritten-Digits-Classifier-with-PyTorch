@@ -15,7 +15,7 @@ To get started with this project, you need to install the required dependencies.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Handwritten-Digits-Classifier-with-PyTorch.git
+    git clone https://github.com/jahnvisahni31/Handwritten-Digits-Classifier-with-PyTorch.git
     cd Handwritten-Digits-Classifier-with-PyTorch
     ```
 
